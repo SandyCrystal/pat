@@ -18,6 +18,5 @@ using namespace std;
 typedef long long ll;
 
 int main() {
-    double a = sqrt(12);
-    cout<<a;
+    printf("%.4lf", 1.8*1.01*1.01);
 }
