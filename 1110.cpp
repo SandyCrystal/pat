@@ -1,5 +1,21 @@
+//
+// Created by wxd on 2020/6/22.
+//
+
+#include <cstdio>
 #include <iostream>
+#include <stack>
+#include <queue>
+#include <cstdlib>
+#include <cstring>
+#include <cmath>
+#include <algorithm>
+#include <list>
+#include <map>
+#include <set>
+#include <vector>
 using namespace std;
+typedef long long ll;
 
 struct node{
     int l, r;
